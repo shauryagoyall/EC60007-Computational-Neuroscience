@@ -1,6 +1,5 @@
 # EC60007 Computational Neuroscience 
-## IIT Kharagpur 
-### Autumn 2022-2023
+## IIT Kharagpur, Autumn 2022-2023
 
 
 File naming convention:
