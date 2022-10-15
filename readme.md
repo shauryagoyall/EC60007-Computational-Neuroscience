@@ -2,5 +2,5 @@ File naming convention:
 
 ```cn_project_ii_a22.pdf``` - problem statement
 
-`project_2.m` - code \
-`project2.pdf` - writeup
+`project2.m` - code \
+`Project_2.pdf` - writeup
